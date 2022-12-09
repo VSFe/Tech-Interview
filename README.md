@@ -8,7 +8,7 @@
 - 질문 목록부터 먼저 업로드 한 후, 답변을 위한 주요 키워드들을 차후에 업로드 하도록 하겠습니다.
 
 ## Contents
-- Data Structure
+- [Data Structure](https://github.com/VSFe/Tech-Interview/blob/main/01-DATA_STRUCTURE.md)
 - Algorithm
 - Operating System
 - Network
