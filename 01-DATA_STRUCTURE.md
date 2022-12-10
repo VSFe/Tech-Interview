@@ -43,6 +43,7 @@
 <ul>
 <li> 그래프와 트리의 차이가 무엇인가요?</li>
 <li> 이진탐색트리에서 중위 탐색을 하게 되면, 그 결과는 어떤 의미를 가지나요?</li>
+<li> 이진탐색트리의 주요 연산에 대한 시간복잡도를 설명하고, 왜 그런 시간복잡도가 도출되는지 설명해 주세요.</li>
 <li> 이진탐색트리의 한계점에 대해 설명해주세요.</li>
 <li> 이진탐색트리의 값 삽입, 삭제 방법에 대해 설명하고, 어떤식으로 값을 삽입하면 편향이 발생할까요?</li>
 </ul>
@@ -61,8 +62,8 @@
   <summary><h3>7. BBST (Balanced Binary Search Tree) 와, 그 종류에 대해 설명해 주세요.</h3></summary>
 <ul>
 <li> Red Black Tree는 어떻게 균형을 유지할 수 있을까요?</li>
+<li> Red Black Tree의 주요 성질 4가지에 대해 설명해 주세요.</li>
 <li> 2-3-4 Tree, AVL Tree 등의 다른 BBST 가 있음에도, 왜 Red Black Tree가 많이 사용될까요?</li>
-<li> 힙 정렬의 시간복잡도는 어떻게 되나요? Stable 한가요?</li>
 </ul>
 </details>   
 
@@ -115,3 +116,17 @@
 <li> Kruskal 과 Prim 중, 어떤 것이 더 빠를까요?</li>
 </ul>
 </details>   
+
+ <details>
+  <summary><h3>13. Thread Safe 한 자료구조가 있을까요? 없다면, 어떻게 Thread Safe 하게 구성할 수 있을까요?</h3></summary>
+<ul>
+<li> 배열의 길이를 알고 있다면, 조금 더 빠른 Thread Safe 한 연산을 만들 순 없을까요?</li>
+<li> 사용하고 있는 언어의 자료구조는 Thread Safe 한가요? 그렇지 않다면, Thread Safe 한 Wrapped Data Structure 를 제공하고 있나요?</li>
+</ul>
+</details>  
+
+ <details>
+  <summary><h3>14. 문자열을 저장하고, 처리하는 주요 자료구조 및 알고리즘 (Trie, KMP, Rabin Karp 등) 에 대해 설명해 주세요.</h3></summary>
+<ul>
+</ul>
+</details>  
