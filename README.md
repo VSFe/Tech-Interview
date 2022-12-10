@@ -7,6 +7,7 @@
 
 - **레포지토리에 있는 내용이 면접의 전부는 아닙니다! 더 많이 찾아보면 좋을 것 같
   습니다.**
+- 문제 수가 많고, 난이도도 있는 편 입니다. 어려울 수 있다는 것을 감안하고 공부하셨으면 좋겠습니다!
 - 특정 키워드에 대해, 나올 수 있는 문항들을 다양하게 적었습니다.
 - 적힌 풀이를 외우는 것은 지양하기에, **질문과, 찾아보면 좋을 키워드만 정리했습
   니다.**
@@ -17,7 +18,7 @@
 
 - [Data Structure](https://github.com/VSFe/Tech-Interview/blob/main/01-DATA_STRUCTURE.md)
 - Algorithm
-- Operating System
+- [Operating System](https://github.com/VSFe/Tech-Interview/blob/main/03-OPERATING_SYSTEM.md)
 - Network
 - Database
 - Etc
