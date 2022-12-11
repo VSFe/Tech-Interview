@@ -14,7 +14,7 @@
 - [Data Structure](https://github.com/VSFe/Tech-Interview/blob/main/01-DATA_STRUCTURE.md)
 - Algorithm
 - [Operating System](https://github.com/VSFe/Tech-Interview/blob/main/03-OPERATING_SYSTEM.md)
-- [Network] (https://github.com/VSFe/Tech-Interview/blob/main/04-NETWORK.md)
+- [Network](https://github.com/VSFe/Tech-Interview/blob/main/04-NETWORK.md)
 - Database
 - Etc
 - 언어 관련 질문 (Java)
