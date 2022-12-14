@@ -12,7 +12,7 @@
 <details>
   <summary><h3>2. RDB와 NoSQL의 차이에 대해 설명해 주세요.</h3></summary>
 <ul>
-<li> NoSQL의 강점이 무엇인가요?</li>
+<li> NoSQL의 강점과, 약점이 무엇인가요?</li>
 <li> RDB의 어떠한 특징 때문에 NoSQL에 비해 부하가 많이 걸릴 수 있을까요?</li>
 </ul>
 </details>
