@@ -14,8 +14,8 @@
 - [Data Structure, Algorithm (이론)](https://github.com/VSFe/Tech-Interview/blob/main/01-DATA_STRUCTURE_ALGORITHM.md)
 - [Operating System](https://github.com/VSFe/Tech-Interview/blob/main/02-OPERATING_SYSTEM.md)
 - [Network](https://github.com/VSFe/Tech-Interview/blob/main/03-NETWORK.md)
-- Database
-- Etc
+- [Database](https://github.com/VSFe/Tech-Interview/blob/main/04-DATABASE.md)
+- [Etc](https://github.com/VSFe/Tech-Interview/blob/main/05-ETC.md)
 - 손코딩 (연습 문항)
 - 언어 관련 질문 (Java)
 - 면접 기출 문항
