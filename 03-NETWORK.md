@@ -97,7 +97,7 @@
   <summary><h3>11. 3-Way Handshake에 대해 설명해 주세요.</h3></summary>
 <ul>
 <li> ACK, SYN 같은 정보는 어떻게 전달하는 것 일까요?</li>
-<li> 2-Way Handshaking 하지않는 이유에 대해 설명해 주세요.</li>
+<li> 2-Way Handshaking 를 하지않는 이유에 대해 설명해 주세요.</li>
 <li> SYN Flooding 에 대해 설명해 주세요.</li>
 </ul>
 </details>
