@@ -71,6 +71,7 @@
   <summary><h3>8. 정렬 알고리즘에 대해 설명해 주세요.</h3></summary>
 <ul>
 <li> Quick Sort와 Merge Sort를 비교해 주세요.</li>
+<li> Quick Sort에서 O(N^2)이 걸리는 예시를 들고, 이를 개선할 수 있는 방법에 대해 설명해 주세요.</li>
 <li> Stable Sort가 무엇이고, 어떤 정렬 알고리즘이 Stable 한지 설명해 주세요.</li>
 <li> Merge Sort를 재귀를 사용하지 않고 구현할 수 있을까요?</li>
 <li> Radix Sort에 대해 설명해 주세요.</li>
@@ -128,5 +129,28 @@
  <details>
   <summary><h3>14. 문자열을 저장하고, 처리하는 주요 자료구조 및 알고리즘 (Trie, KMP, Rabin Karp 등) 에 대해 설명해 주세요.</h3></summary>
 <ul>
+</ul>
+</details>  
+
+ <details>
+  <summary><h3>15. 이진탐색이 무엇인지 설명하고, 시간복잡도를 증명해 보세요.</h3></summary>
+<ul>
+<li> Lower Bound, Upper Bound 는 무엇이고, 이를 어떻게 구현할 수 있을까요?</li>
+<li> 이진탐색의 논리를 적용하여 삼진탐색을 작성한다고 가정한다면, 시간복잡도는 어떻게 변화할까요? (실제 존재하는 삼진탐색 알고리즘은 무시하세요!)</li>
+<li> 기존 이진탐색 로직에서 부등호의 범위가 바뀐다면, (ex. <= 라면 <로, <이라면 <= 로) 결과가 달라질까요?</li>
+</ul>
+</details>  
+
+ <details>
+  <summary><h3>16. 암호화 알고리즘에 대해 설명해 주세요.</h3></summary>
+<ul>
+</ul>
+</details>  
+
+ <details>
+  <summary><h3>17. 그리디 알고리즘과 동적 계획법을 비교해 주세요.</h3></summary>
+<ul>
+<li> 그렇다면, 어떤 경우에 각각의 기법을 사용할 수 있을까요?</li>
+<li> 그렇다면, 동적 계획법으로 풀 수 있는 모든 문제는 재귀로 변환하여 풀 수 있나요?</li>
 </ul>
 </details>  
