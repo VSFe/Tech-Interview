@@ -176,3 +176,11 @@
 <li> 디멀티플렉싱의 과정에 대해 설명해 주세요.</li>
 </ul>
 </details>
+
+<details>
+  <summary><h3>21. XSS에 대해서 설명해 주세요.</h3></summary>
+<ul>
+<li> CSRF랑 XSS는 어떤 차이가 있나요?</li>
+<li> XSS는 프론트엔드에서만 막을 수 있나요?</li>
+</ul>
+</details>
