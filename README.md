@@ -25,7 +25,7 @@
 WIP
 
 ## Special Thanks
-- 함께 스터디를 진행했던, 고마운 분 들입니다.
+- 함께 스터디를 진행했던, 고마운 분들입니다.
 
 [BaeRoNuI](https://github.com/BaeRoNuI)  
 [JongWoo Jeong](https://github.com/knight7024)  
