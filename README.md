@@ -17,7 +17,7 @@
 - [Database](https://github.com/VSFe/Tech-Interview/blob/main/04-DATABASE.md)
 - [Etc](https://github.com/VSFe/Tech-Interview/blob/main/05-ETC.md)
 - 손코딩 (연습 문항)
-- 언어/프레임워크 관련 질문 (Java, Spring)
+- [언어/프레임워크 관련 질문 (Java, Spring)](https://github.com/VSFe/Tech-Interview/blob/main/07-JAVA_SPRING.md)
 - 언어/프레임워크 관련 질문 (Javascript)
 - 언어/프레임워크 관련 질문 (Python)
 
