@@ -60,6 +60,7 @@
 <li> 그렇다면, 왜 HTTP/3 에서는 UDP(QUIC) 를 사용하나요? 위에서 언급한 UDP의 문제가 해결되었나요?</li>
 <li> 본인이 새로운 통신 프로토콜을 TCP나 UDP를 사용해서 구현한다고 하면, 어떤 기준으로 프로토콜을 선택하시겠어요?</li>
 <li> Checksum이 무엇인가요?</li>
+  <li> TCP와 UDP 중 어느 프로토콜이 Checksum을 수행할까요?</li>
 <li> TCP가 신뢰성을 보장하는 방법에 대해 설명해 주세요.</li>
 <li> TCP의 혼잡 제어 처리 방법에 대해 설명해 주세요.</li>
 </ul>
@@ -69,6 +70,7 @@
   <summary><h3>8. DHCP가 무엇인지 설명해 주세요.</h3></summary>
 <ul>
 <li> DHCP는 어떻게 동작하나요?</li>
+  <li> DHCP에서 UDP를 사용하는 이유가 무엇인가요?</li>
 <li> DHCP에서, IP 주소 말고 추가로 제공해주는 정보가 있나요?</li>
 <li> DHCP의 유효기간은 얼마나 긴가요?</li>
 </ul>
@@ -127,6 +129,7 @@
 <li> UDP와 TCP 중 어떤 것을 사용하나요?</li>
 <li> DNS Recursive Query, Iterative Query가 무엇인가요?</li>
 <li> DNS 쿼리 과정에서 손실이 발생한다면, 어떻게 처리하나요?</li>
+<li> DNS 레코드 타입 중 A, CNAME, AAAA의 차이에 대해서 설명해주세요.</li>
 </ul>
 </details>
 
@@ -143,12 +146,14 @@
 <ul>
 <li> 왜 HTTP는 Stateless 구조를 채택하고 있을까요?</li>
 <li> HTTP Persistence Connection 이 무엇인가요?</li>
+  <li> TCP의 keep-alive와 HTTP의 keep-alive의 차이는 무엇인가요?</li>
 </ul>
 </details>
 
 <details>
   <summary><h3>17. 라우터 내의 포워딩 과정에 대해 설명해 주세요.</h3></summary>
 <ul>
+<li> 라우팅과 포워딩의 차이는 무엇인가요?</li>
 <li> 라우팅 알고리즘에 대해 설명해 주세요.</li>
 <li> 포워딩 테이블의 구조에 대해 설명해 주세요.</li>
 </ul>
