@@ -32,3 +32,7 @@ WIP
 [Namkanghyeon](https://github.com/Namkanghyeon)  
 [Jeong Seokwoo (redjen)](https://github.com/redjen8)  
 [Hi YJ](https://github.com/0general)
+
++ 좋은 결과를 냈던 새로운 분들도 함께합니다.
+[sojeongLee](https://github.com/sojeongLee0125)
+[DongRyul Lee](https://github.com/Al7ech)
