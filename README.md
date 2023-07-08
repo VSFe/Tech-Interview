@@ -25,14 +25,15 @@
 WIP
 
 ## Special Thanks
-- 함께 스터디를 진행했던, 고마운 분들입니다.
-
+- 함께 스터디를 진행했던, 고마운 분들입니다.  
 [BaeRoNuI](https://github.com/BaeRoNuI)  
 [JongWoo Jeong](https://github.com/knight7024)  
 [Namkanghyeon](https://github.com/Namkanghyeon)  
 [Jeong Seokwoo (redjen)](https://github.com/redjen8)  
 [Hi YJ](https://github.com/0general)
 
+
 + 좋은 결과를 냈던 새로운 분들도 함께합니다.  
 [sojeongLee](https://github.com/sojeongLee0125)  
 [DongRyul Lee](https://github.com/Al7ech)
+[Junhyuk Lee](https://github.com/sinclairr08)
