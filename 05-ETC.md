@@ -19,6 +19,7 @@
   <summary><h3>3. static 키워드는 어떤 의미를 갖나요? (본인이 사용하는 언어에서 없다면 패스...)</h3></summary>
 <ul>
 <li> 컴파일 할 때, static 키워드가 붙은 변수, 함수는 어떻게 처리되나요?</li>
+<li> Java에서 static과 static final은 어떤 차이를 갖나요? final과 static final은요? </li>
 </ul>
 </details>
 
@@ -101,4 +102,22 @@
 <li> 만약 Access Token이 탈취되면, 어떻게 대응할 수 있을까요?</li>
 <li> 반대로 Refresh Token이 탈취되면, 어떻게 대응해야 할까요?</li>
 </ul>
+</details>
+
+<details>
+  <summary><h3>14. 암호화 알고리즘에 대해 설명해 주세요.</h3></summary>
+<ul>
+</details>
+
+<details>
+  <summary><h3>15. 문자열 인코딩에 대해 설명해 주세요.</h3></summary>
+<ul>
+<li> Base64 인코딩은 일반적인 문자열 인코딩과는 달리, 사용자가 읽기 어려운 알파벳과 숫자 조합으로 변경합니다. 이를 사용하는 이유는 무엇일까요?</li>
+</details>
+
+<details>
+  <summary><h3>16. Git에 대해 설명해 주세요.</h3></summary>
+<ul>
+<li> 여러 브랜치를 합쳐야 할 때, 어떤 방법을 사용할 수 있는지 "모두" 설명해 주세요.</li>
+<li> 여러 브랜치를 합쳐야 할 때, 어떤 방법을 사용할 수 있는지 "모두" 설명해 주세요.</li>
 </details>
