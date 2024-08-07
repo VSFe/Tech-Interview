@@ -32,6 +32,6 @@
 + 좋은 결과를 냈던 새로운 분들도 함께합니다.  
 [sojeongLee](https://github.com/sojeongLee0125)  
 [DongRyul Lee](https://github.com/Al7ech)  
-[Junhyuk Lee](https://github.com/sinclairr08)
-[Hoin Shin](https://github.com/signalman)
+[Junhyuk Lee](https://github.com/sinclairr08)  
+[Hoin Shin](https://github.com/signalman)  
 [PangPyo](https://github.com/Pangpyo)
