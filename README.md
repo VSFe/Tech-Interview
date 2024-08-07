@@ -33,3 +33,5 @@
 [sojeongLee](https://github.com/sojeongLee0125)  
 [DongRyul Lee](https://github.com/Al7ech)  
 [Junhyuk Lee](https://github.com/sinclairr08)
+[Hoin Shin](https://github.com/signalman)
+[PangPyo](https://github.com/Pangpyo)
